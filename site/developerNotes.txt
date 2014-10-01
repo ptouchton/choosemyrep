@@ -1,0 +1,5 @@
+
+1. Created custom Members page in /wp-content/themes/parallelus-salutation/members.
+     a. members-loop.php
+	 b. index.php
+	 Notes: do not overwrite these pages with an upgrade
